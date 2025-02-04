@@ -1,7 +1,8 @@
 Dylan Soth
 ======
 
-#### Mechanical Engineer with over 2 years of professional experience developing healthcare technology. Demonstrates a passion for creating innovative solutions that improve patient care and quality of life. Seeking opportunities to leverage can-do attitude in developing cutting-edge medical technologies that address critical healthcare challenges. ###### [ [dylansoth.github.io](http://dylansoth.github.io) ] . [ soth.d@northeastern.edu ] . [ 509 710 9168 ]
+#### Mechanical Engineer with over 2 years of professional experience developing healthcare technology. Demonstrates a passion for creating innovative solutions that improve patient care and quality of life. Seeking opportunities to leverage can-do attitude in developing cutting-edge medical technologies that address critical healthcare challenges. 
+###### [ [dylansoth.github.io](http://dylansoth.github.io) ] . [ soth.d@northeastern.edu ] . [ 509 710 9168 ]
 
 
 Education
