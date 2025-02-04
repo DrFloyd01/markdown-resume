@@ -1,49 +1,38 @@
-Sonya Sawtelle
+Dylan Soth
 ======
 
-#### Data enthusiast with a strong background in math, science and programming. 
-###### [ [sdsawtelle.github.io](http://sdsawtelle.github.io) ] . [ sonya.sawtelle@yale.edu ] . [ 802 461 3429 ]
+#### Mechanical Engineer with over 2 years of professional experience developing healthcare technology. Demonstrates a passion for creating innovative solutions that improve patient care and quality of life. Seeking opportunities to leverage can-do attitude in developing cutting-edge medical technologies that address critical healthcare challenges. ###### [ [dylansoth.github.io](http://dylansoth.github.io) ] . [ soth.d@northeastern.edu ] . [ 509 710 9168 ]
 
 
 Education
 ---------
-**Ph.D. program in Applied Physics, Yale University** (2012-present)
+**B.S. in Mechanical Engineering, Northeastern University** (2019-2023)
 
-- Research on transport in metal nanostructures. 
-- Coursework in physics, engineering, and statistics.
-
-**B.S. in Physics, Indiana University** (2008-2011)
-
-- Baccalaureate with Departmental Honors and Highest Distinction, 3.98/4.0 GPA
-
-**MOOCs** (ongoing)
-
-- Machine Learning (Stanford, Andrew Ng)
+- University Honors Program Distinction, 3.81/4.0 GPA
+- Labwork in measurements, mechanics, and anatomy and physiology.
+- Activies with NU ASME, NU Robotics Club, and NU Service-Learning.
+- Elective coursework in flight, film, and global health.
 
 Experience
 ---------
-**Independent Researcher, Yale University** (2012-present, New Haven CT)
+**Transcranial Magnetic Stimulation (TMS) Technician, River City TMS** (2023-present, Spokane WA)
 
-- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
-
-**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
-
-- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
+- **Patient Care:** Administered hundreds of TMS treatments to dozens of patients who have suffered MDD.
+- **Quality Improvement:** Designed a training program; led 4 hands-on demonstration hours, each with a prepared protocol study/SOP.
+- **Informatics:** Wrote a Python script to grab hundreds of patients' data and calculate new variables.
+- **Research:** Discovered and implemented novel targeting methods and treatment protocols with direction from medical staff for elective care.
 
 Skills
 ------
-**Programming:** Python, MATLAB, SQL, R, git, HTML/CSS
+**Lab Tools:** Strain Gauges, Encoders, IMUs; Mitutoyo CMM, SLA/FDM 3D Printers, Wet Lab PPE
 
-**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn
+**Software:** SolidWorks PDM (CSWP), AutoCAD, ANSYS Workbench, LabVIEW, Unity
 
-Awards
-------
-- **Sterling Prize Fellowship**, Yale University (2013). Awarded to 30 out of 10,500 applicants.
-- **IU Founders Scholar**, Indiana University (2012)
-- **Baccalaureate with Highest Distinction**, Indiana University (2012). Granted to 5 students out of 498 in the class.
+**Programming:** Python, MATLAB, Arduino, SEGGER Embedded Studio, git
 
 Projects
 --------
-**[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
+**[*Assistive Mini-Golf System* Senior Capstone](http://dylansoth.github.io/AMGS)** (2022-2023)
 
-- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
+- **Design:** Designed and developed an assistive device enabling a quadriplegic client to play mini-golf. Implemented precise aiming and power control using stepper motors, timing belts, and pulleys.
+- **Testing:** Successfully tested the system with the client, achieving target hitting and bank shots within five minutes of play. 
